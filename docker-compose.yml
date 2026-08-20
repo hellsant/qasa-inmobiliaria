@@ -1,0 +1,17 @@
+services:
+  qasa:
+    build: .
+    container_name: qasa
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    volumes:
+      - storage:/var/www/html/storage
+      - dbdata:/var/www/html/database
+    environment:
+      - APP_ENV=production
+      - APP_DEBUG=false
+
+volumes:
+  storage:
+  dbdata:

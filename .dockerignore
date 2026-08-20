@@ -1,0 +1,9 @@
+.git
+.env
+*.sqlite
+vendor
+node_modules
+storage/app/public/*
+storage/logs/*
+storage/framework/views/*
+docker-compose.yml
