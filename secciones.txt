@@ -1,0 +1,61 @@
+
+===== SECTION #historias =====
+<section id="historias">
+  <div class="wrap">
+    <div class="sec-head"><p class="eyebrow" data-reveal>08 · Historias</p><h2 class="sec-title" data-reveal style="--d:1">Gente que ya tiene <span class="it">sus llaves.</span></h2></div>
+    <div class="post-board">
+      <article class="postcard" style="--x:2%;--y:6%;--r:-4deg"><q>“Vendimos la casa de mis papás en Queru Queru en seis semanas, al precio que queríamos.”</q><div class="who"><img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=100&q=70" alt=""><div><b>Marcela Q.</b><span>VENTA · QUERU QUERU</span></div></div></article>
+      <article class="postcard" style="--x:25%;--y:42%;--r:3deg"><q>“Alquilé a una cuadra del Prado sin garante y con contrato digital. Cero estrés.”</q><div class="who"><img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=100&q=70" alt=""><div><b>Diego A.</b><span>ALQUILER · EL PRADO</span></div></div></article>
+      <article class="postcard" style="--x:48%;--y:2%;--r:-2deg"><q>“El anticrético me salvó cuando volví del exterior. Todo registrado en Derechos Reales.”</q><div class="who"><img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=100&q=70" alt=""><div><b>Rosario M.</b><span>ANTICRÉTICO · CALA CALA</span></div></div></article>
+      <article class="postcard" style="--x:69%;--y:38%;--r:4deg"><q>“Nos mostraron tres casas un sábado y el lunes ya teníamos llaves en El Vergel.”</q><div class="who"><img src="https://images.unsplash.com/photo-1560250097-0b93563167ca?auto=format&fit=crop&w=100&q=70" alt=""><div><b>Familia Pereira</b><span>VENTA · COLQUIRI SUD</span></div></div></article>
+      <article class="postcard" style="--x:16%;--y:70%;--r:-3deg"><q>“Tasaron mi terreno en Quillacollo gratis y me explicaron cada paso con paciencia.”</q><div class="who"><img src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=100&q=70" alt=""><div><b>Andrés C.</b><span>TASACIÓN · QUILLACOLLO</span></div></div></article>
+    </div>
+  </div>
+</section>
+
+===== SECTION #nosotros =====
+<section id="nosotros">
+  <div class="wrap">
+    <div class="nos-grid">
+      <div>
+        <p class="eyebrow" data-reveal style="justify-content:flex-start">06 · Quiénes somos</p>
+        <h2 class="manif lines" data-reveal>
+          <span class="line"><span class="line-in" style="--i:0">Somos de acá.</span></span>
+          <span class="line"><span class="line-in" style="--i:1">Conocemos <span class="it">cada cuadra</span></span></span>
+          <span class="line"><span class="line-in" style="--i:2">del valle.</span></span>
+        </h2>
+        <p class="txt" data-reveal style="--d:2">{{ Setting::get('about_text') }}</p>
+        <div class="val-chips" data-reveal style="--d:4"><span>✦ Ética primero</span><span>✦ Datos claros</span><span>✦ Cero letra chica</span><span>✦ Cochalos de pura cepa</span></div>
+      </div>
+      <div class="collage" data-reveal style="--d:2">
+        <div class="c1"><img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1000&q=70" alt="Casa blanca moderna"></div>
+        <div class="c2"><img src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=700&q=70" alt="Interior cálido"></div>
+        <div class="yrs"><b>14</b><span>AÑOS EN EL VALLE</span></div>
+      </div>
+    </div>
+    <div class="timeline">
+      <div class="tl-item" data-reveal><b>2012</b><p>Abrimos cerca del Prado con dos escritorios y una promesa: datos claros.</p></div>
+      <div class="tl-item" data-reveal style="--d:1"><b>2016</b><p>Operación Nº 100: una casa en Cala Cala que aún visitamos cada enero.</p></div>
+      <div class="tl-item" data-reveal style="--d:2"><b>2020</b><p>Anticrético registrado en Derechos Reales como estándar de la casa.</p></div>
+      <div class="tl-item" data-reveal style="--d:3"><b>2023</b><p>Llegamos al valle: Quillacollo, Tiquipaya y Colcapirhua al catálogo.</p></div>
+      <div class="tl-item" data-reveal style="--d:4"><b>2026</b><p>Mapa verificado, galerías de 6+ fotos y tasaciones online en 24 h.</p></div>
+    </div>
+    <div class="team-grid">
+      <article class="team-card" data-reveal><img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=500&q=70" alt=""><div><b>Valeria Antelo</b><span>Fundadora & Gerente</span></div></article>
+      <article class="team-card" data-reveal style="--d:1"><img src="https://images.unsplash.com/photo-1560250097-0b93563167ca?auto=format&fit=crop&w=500&q=70" alt=""><div><b>Marco Salinas</b><span>Jefe de Ventas</span></div></article>
+      <article class="team-card" data-reveal style="--d:2"><img src="https://images.unsplash.com/photo-1573497019940-1c2873416488?auto=format&fit=crop&w=500&q=70" alt=""><div><b>Paola Justiniano</b><span>Alquileres & Anticréticos</span></div></article>
+      <article class="team-card" data-reveal style="--d:3"><img src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=500&q=70" alt=""><div><b>Rodrigo Camacho</b><span>Legal & Notaría</span></div></article>
+    </div>
+  </div>
+</section>
+
+===== SECTION #faq =====
+<section id="faq">
+  <p class="eyebrow" data-reveal style="justify-content:flex-start">10 · Preguntas frecuentes</p>
+  <h2 class="sec-title" data-reveal style="--d:1">Antes de preguntar, <span class="it">mirá acá.</span></h2>
+  <div class="faq-item" data-reveal><button class="faq-q" aria-expanded="false">¿Qué es el anticrético y cómo funciona?<span class="pm">+</span></button><div class="faq-a"><p>Es una modalidad muy boliviana: entregás un capital como garantía, vivís en la propiedad sin pagar alquiler mensual y, al terminar el contrato, se te devuelve el monto completo. Registramos cada contrato en Derechos Reales y verificamos que el inmueble esté libre de gravámenes.</p></div></div>
+  <div class="faq-item" data-reveal style="--d:1"><button class="faq-q" aria-expanded="false">¿Cobran por visitar propiedades?<span class="pm">+</span></button><div class="faq-a"><p>Nunca. Las visitas son gratuitas e ilimitadas. Solo se paga comisión cuando se concreta la operación, y siempre lo sabés por escrito desde el primer día.</p></div></div>
+  <div class="faq-item" data-reveal style="--d:2"><button class="faq-q" aria-expanded="false">¿Puedo comprar con crédito bancario?<span class="pm">+</span></button><div class="faq-a"><p>Sí. Trabajamos con los principales bancos del país y te ayudamos con la pre-calificación, el papeleo y los tiempos para que no pierdas la propiedad que te gusta.</p></div></div>
+  <div class="faq-item" data-reveal style="--d:3"><button class="faq-q" aria-expanded="false">¿Las fotos son reales?<span class="pm">+</span></button><div class="faq-a"><p>Sí, siempre. Cada propiedad se publica con galería de 6 o más fotos y, cuando corresponde, video con dron. Lo que ves es lo que visitás.</p></div></div>
+  <div class="faq-item" data-reveal style="--d:4"><button class="faq-q" aria-expanded="false">¿Cuánto tarda la tasación de mi propiedad?<span class="pm">+</span></button><div class="faq-a"><p>24 horas hábiles: un asesor visita tu inmueble, compara operaciones reales de tu zona y te entrega un informe por escrito, sin costo ni compromiso.</p></div></div>
+</section>
